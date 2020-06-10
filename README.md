@@ -1,2 +1,4 @@
 # Privatlivspolitik
-GC2/Vidi brugergruppens privatlivspolitik
+Indeholder GC2/Vidi brugergruppens privatlivspolitik
+
+GC2/Vidi brugergruppens bestyrelse
